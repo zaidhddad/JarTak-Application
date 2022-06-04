@@ -1,2 +1,2 @@
 # JarTak -Application
-© 2022 Zaid Haddad. All Rights Reserved. Designed by Zaid Haddad
+© 2022Yousef Idrees. All Rights Reserved. Designed by Yousef Idrees
