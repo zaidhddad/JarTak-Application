@@ -1,2 +1,2 @@
-# JarTak-Application
- JarTak-Project : To make your life easire
+# JarTak -Application
+© 2022 Zaid Haddad. All Rights Reserved. Designed by Zaid Haddad
